@@ -1,9 +1,8 @@
 <!DOCTYPE html><html lang="si">
 <head>
-  <meta name="google-site-verification" content="ggpimbHPsjX9FTG5l6D2CdehyX7W0XSr_GJcFNOc9aM" />
-  <meta name="google-site-verification" content="ggpimbHPsjX9FTG5l6D2CdehyX7W0XSr_GJcFNOc9aM" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content="ggpimbHPsjX9FTG5l6D2CdehyX7W0XSr_GJcFNOc9aM" />
   <title>PUBUDU Lathe Works</title>
   <style>
     body {
