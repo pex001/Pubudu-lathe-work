@@ -84,3 +84,4 @@
   <section id="about">
     <h2>අපි ගැන</h2>
     <p>PUBUDU Lathe Works යනු වසර ගණනාවක් පුරා විශ්වාසය සහ නිවැරදි සේවාවන් සැපයූ යන්ත්‍ර කර්මාන්තශාලාවකි.</
+<meta name="google-site-verification" content="ggpimbHPsjX9FTG5l6D2CdehyX7W0XSr_GJcFNOc9aM" />
