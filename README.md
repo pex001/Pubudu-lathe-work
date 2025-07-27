@@ -59,6 +59,7 @@
 </head>
 <meta name="google-site-verification" content="ggpimbHPsjX9FTG5l6D2CdehyX7W0XSr_GJcFNOc9aM" />
 <body>
+  <meta name="google-site-verification" content="ggpimbHPsjX9FTG5l6D2CdehyX7W0XSr_GJcFNOc9aM" />
   <header>
     <h1>PUBUDU Lathe Works</h1>
     <p>ඔබේ විශ්වාසය – අපගේ නවෝත්පාදන!</p>
