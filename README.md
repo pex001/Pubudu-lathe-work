@@ -57,6 +57,7 @@
     }
   </style>
 </head>
+<meta name="google-site-verification" content="ggpimbHPsjX9FTG5l6D2CdehyX7W0XSr_GJcFNOc9aM" />
 <body>
   <header>
     <h1>PUBUDU Lathe Works</h1>
